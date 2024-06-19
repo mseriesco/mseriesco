@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohsin Nazir from heart of Pakistan
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on Python, Flask, React, Angular, Javascript, Websockets, MQTT
 - 💞️ I’m looking to collaborate on any Intersting Project
 - 📫 How to reach me mseriesco@gmail.com
 
